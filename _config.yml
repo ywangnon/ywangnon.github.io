@@ -9,3 +9,4 @@ github_username:  macrod68
 
 sass:
     style: compressed
+theme: jekyll-theme-cayman
