@@ -2,8 +2,6 @@
 layout: post
 ---
 
-# Swift4
-
 입력 테스트
 
 [링크 테스트][jkf]
