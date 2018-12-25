@@ -9,7 +9,9 @@ slug: "ios_watcha"
 [watcha]: https://watcha.net
 [app]: https://itunes.apple.com/kr/app/왓챠-영화-도서-tv-시리즈-추천-앱/id644185507?mt=8
 
-## 소개
-| Main |
-| :--: |
-| ![screen](/static/projects/ios_watcha.gif)|
+## 소개영상
+![screen](/static/projects/ios_watcha.gif)
+
+
+
+> [Git 주소](https://github.com/ywangnon/iOS-watcha)
