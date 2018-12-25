@@ -12,4 +12,4 @@ slug: "ios_watcha"
 ## 소개
 | Main |
 | :--: |
-| ![screen](../static/projects/ios_watcha.gif)|
+| ![screen](/static/projects/ios_watcha.gif)|
