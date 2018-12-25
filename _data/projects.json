@@ -6,12 +6,5 @@
 		"url": "https://github.com/ywangnon/iOS-watcha",
 		"date": "May 2018",
 		"tags": ["Swift"]
-	},
-	{
-		"name": "Cool project 2",
-		"image": "placeholder.jpg",
-		"url": "#",
-		"date": "May 2014",
-		"tags": ["Python","Django"]
 	}
 ]
