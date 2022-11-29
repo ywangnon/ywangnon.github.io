@@ -14,7 +14,7 @@ lang: en
 
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Asia/Shanghai
+timezone: Asia/Seoul
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
@@ -30,7 +30,7 @@ description: >-                        # used by seo meta and the atom feed
 url: 'https://ywangnon.github.io'
 
 github:
-  username: github_username             # change to your github username
+  username: ywangnon             # change to your github username
 
 twitter:
   username: twitter_username            # change to your twitter username
